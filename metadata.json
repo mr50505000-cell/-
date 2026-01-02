@@ -1,0 +1,7 @@
+{
+  "name": "Copy of دمج صورتك وانت صغير ",
+  "description": "Combine your childhood and current photos into a single, high-quality Polaroid-style memory using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
